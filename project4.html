@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MY Wedding.COM</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-image: linear-gradient(to right, #5d0638, #4f0b3d, #400f40, #301340, #1e143e, #17143f, #0d133f, #001340, #001145, #000f4a, #000c4f, #050753);;
+        }
+
+        header {
+            background-color: rgba(0, 0, 0, 0.5);
+            color: white;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px 20px;
+            font-size: 20px;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 24px;
+            font-size: 40px;
+        }
+
+        nav ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+
+        nav li {
+            display: inline;
+            margin-left: 20px;
+        }
+
+        nav a {
+            color: #fff;
+            text-decoration: none;
+        }
+
+        .form-container {
+            background-image: url('back.jpg');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment:local;
+            color: white;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            text-align: center;
+        }
+
+        .form-container form {
+            display: flex;
+            align-items: center;
+        }
+
+        .form-container select, .form-container button {
+            padding: 10px;
+            font-size: 30px;
+        }
+
+        .form-container select {
+            width: 250px;
+        }
+
+        .form-container button {
+            background-color: #4CAF50;
+            border: none;
+            color: white;
+            cursor: pointer;
+        }
+
+        .cards-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            margin-top: 50px;
+            padding-top: 100px;  
+            background-image: url('royal.jpg');
+            background-size: cover;
+        }
+
+        .card {
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            margin: 10px;
+            padding: 20px;
+            text-align: center;
+            max-width: 400px;
+            cursor: pointer;
+            transition: transform 0.2s;
+            flex: 0 0 calc(33.33% - 20px);
+            box-sizing: border-box;
+            background-color: #ffc0cb;
+        }
+
+        .card img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+        }
+
+        .card:hover {
+            transform: scale(1.05);
+        }
+
+        #me {
+            font-size: 40px;
+            color: yellow;
+            margin: auto;
+            border-radius: 60px;
+        }
+
+        #items {
+            font-size: 40px;
+            color: yellow;
+            margin: auto;
+            border-radius: 60px;
+        }
+
+        .services-container {
+            display: flex;
+            justify-content: center;
+            margin-top: 50px;
+            padding-top: 80px;
+            margin: 50px;
+        }
+
+        #all {
+            background-image: linear-gradient(to right, #5d0638, #4f0b3d, #400f40, #301340, #1e143e, #17143f, #0d133f, #001340, #001145, #000f4a, #000c4f, #050753);;
+        }
+
+        
+    </style>
+
+</head>
+<body>
+    <div id="home">
+        <header>
+            <h1>mywedding.com</h1>
+            <nav>
+                <ul>
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#all">Venues</a></li>
+                    <li><a href="#services">Service</a></li>
+                    <li><a href="#contact">Contact Us</a></li>
+                </ul>
+            </nav>
+        </header>
+    </div>
+    <div class="form-container">
+        <form>
+            <select name="services">
+                <option value="Food plan">Catering</option>
+                <option value="photography">Photography</option>
+                <option value="Food plane">tour planes</option>
+            </select>
+            <select name="city">
+                <option value="mumbai">Mumbai</option>
+                <option value="delhi">Delhi</option>
+                <option value="goa">Goa</option>
+                <option value="jammu">Jammu</option>
+                <option value="ooty">Ooty</option>
+                <option value="himachal">Himachal</option>
+            </select>
+            <button type="submit">Search</button>
+        </form>
+    </div>
+
+<div id="all">
+    <div id="me">
+        <h1 text align="center" >VENUES</h1>
+    </div>
+    <div class="cards-container">
+        <div class="card">
+            <img src="delhi.jpg" alt="Delhi">
+            <h2>Delhi</h2>
+            <h2>(40-50)lac</h2>
+        </div>
+        <div class="card">
+            <img src="mumbai.jpg" alt="Mumbai">
+            <h2>Mumbai</h2>
+            <h2>(40-50)lac</h2>
+        </div>
+        <div class="card">
+            <img src="goa.jpg" alt="Goa">
+            <h2>Goa</h2>
+            <h2>(50-55)lac</h2>
+        </div>
+        <div class="card">
+            <img src="himachal.jpg" alt="Himachal">
+            <h2>Himachal</h2>
+            <h2>(35-40)lac</h2>
+        </div>
+        <div class="card">
+            <img src="jammu.jpg" alt="Jammu">
+            <h2>Jammu</h2>
+            <h2>(35-40)lac</h2>
+        </div>
+        <div class="card">
+            <img src="ooty.jpg" alt="Ooty">
+            <h2>Ooty</h2>
+            <h2>(70-75)lac</h2>
+        </div>
+    </div>
+
+<div id="services">
+    <div id="items">
+        <h1 text align="center">SERVICES</h1>
+    </div>
+
+    <div class="services-container">
+        <div class="card">
+            <img src="catering.jpg" alt=Catering>
+            <h2>Catering</h2>
+            <h2>Rs. 2lac</h2>
+        </div>
+        <div class="card">
+            <img src="tour.jpg" alt="Tour">
+            <h2>Tour</h2>
+            <h2>Rs. 6 to 8 lac</h2>
+        </div>
+        <div class="card">
+            <img src="photograph.jpg" alt="Photograph">
+            <h2>Photography</h2>
+            <h2>80K</h2>
+        </div>
+    </div>
+</div>
+<div id=contact>
+<footer style="background-color: rgba(0, 0, 0, 0.5); color: white; text-align: center; padding: 20px;">
+    <h2>Contact Us</h2>
+    <p>Email: info@mywedding.com</p>
+    <p>Phone: 123-456-7890</p>
+    <p>Address: 123 Wedding Street, Cityville, State, Country</p>
+</footer>
+</div>
+</body>
+</html>
+
+    
+    
+
+
