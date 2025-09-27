@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ujjwal Narayan
 - 👀 I’m interested in all tech related things....
-- 🌱 I’m currently learning WebDev 
+- 🌱 I’m currently learning WebDev, DSA.......and much more..😊
   
 
 <!---
