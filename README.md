@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
+
+
+
 - 👋 Hi, I’m Ujjwal Narayan
 - 👀 I’m interested in all tech related things....
 - 🌱 I’m currently learning WebDev, DSA.......and much more..😊⭐
