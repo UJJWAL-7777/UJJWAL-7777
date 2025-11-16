@@ -21,3 +21,6 @@ You can click the Preview link to take a look at your changes.
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbAmafdPNr9fd0KC0Z98WYEC7Wl1wYlPVf-A&s" alt="bash" width="45" height="45"/>
 <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="php" width="45" height="45"/>
 </p>
+
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
