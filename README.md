@@ -1,7 +1,8 @@
-<p align="center">
+<div align="center">
   <h1>Hiii Everyone</h1>
   <img src="https://i.pinimg.com/originals/19/76/ec/1976ec0323798268a977c29ed5e20ede.gif" />
-</p>
+</div>
+
 
 
 
