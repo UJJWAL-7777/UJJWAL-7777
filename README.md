@@ -1,25 +1,8 @@
 
-<div style="position: relative; width: 600px; margin: auto;">
-  <img 
-    src="https://static.vecteezy.com/system/resources/thumbnails/002/292/582/small/elegant-black-and-gold-banner-background-free-vector.jpg" 
-    style="width: 100%; border-radius: 10px;"
-  />
 
-  <h1 style="
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -50%);
-      color: white;
-      font-size: 40px;
-      margin: 0;
-      text-shadow: 0px 0px 10px black;
-  ">
-    Hii Everyone
-  </h1>
-</div>
 
 <div align="center">
+  <H1>Hii Everyone</H1>
   <img src="https://i.pinimg.com/originals/19/76/ec/1976ec0323798268a977c29ed5e20ede.gif" />
 </div>
 
