@@ -1,7 +1,18 @@
+
+<div style="position: relative; text-align: center; color: white;">
+  <img src="https://static.vecteezy.com/system/resources/thumbnails/002/292/582/small/elegant-black-and-gold-banner-background-free-vector.jpg" width="100%" />
+
+  <h1 style="
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        color: white;
+        font-size: 50px;">
+    Hii Everyone
+  </h1>
+</div>
 <div align="center">
-  <div align="center">
-    <h1>Hiii Everyone<img src="https://cdn.pixabay.com/photo/2016/08/30/16/26/banner-1631296_640.jpg"/></h1>
-  </div>
   <img src="https://i.pinimg.com/originals/19/76/ec/1976ec0323798268a977c29ed5e20ede.gif" />
 </div>
 
