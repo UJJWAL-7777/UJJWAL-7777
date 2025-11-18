@@ -1,7 +1,8 @@
 <p align="center">
-  <H1>Hiii Everyone</H1>
-  <img src="https://i.pinimg.com/originals/19/76/ec/1976ec0323798268a977c29ed5e20ede.gif"/ align="center">
+  <H1>HII Everyone</H1>
+  <img src="https://i.pinimg.com/originals/19/76/ec/1976ec0323798268a977c29ed5e20ede.gif" align="center" />
 </p>
+
 
 
 
