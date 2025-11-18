@@ -1,8 +1,7 @@
 <div align="center">
-  <img src="https://cdn.pixabay.com/photo/2016/08/30/16/26/banner-1631296_640.jpg"/>
-  <h1>Hiii Everyone</h1>
-</div>
-<div align="center">
+  <div align="center">
+    <h1>Hiii Everyone<img src="https://cdn.pixabay.com/photo/2016/08/30/16/26/banner-1631296_640.jpg"/></h1>
+  </div>
   <img src="https://i.pinimg.com/originals/19/76/ec/1976ec0323798268a977c29ed5e20ede.gif" />
 </div>
 
