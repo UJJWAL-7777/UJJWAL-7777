@@ -31,6 +31,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN5pqEZuWbSaH5p-4xNBaOkYRa7aT1AG9_ILCPNhaZDhvRro0xi1bTYVkR0wMtg4Q3t9o&usqp=CAU" alt="bash" width="45" height="45"/>
   <img src="https://logowik.com/content/uploads/images/mongodb9740.logowik.com.webp" alt="bash" width="100" height="45"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNzUjk61OwgqdKhEcweYwI1SUTx1oEIqc7hkQ3FpeuDCL3GejZO_0jFJ3aqlBGm_JVj9k&usqp=CAU" alt="bash" width="80" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1200px-Tailwind_CSS_Logo.svg.png" alt="bash" width="45" height="45"/>
   
 </div>
 
