@@ -33,6 +33,8 @@ You can click the Preview link to take a look at your changes.
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNzUjk61OwgqdKhEcweYwI1SUTx1oEIqc7hkQ3FpeuDCL3GejZO_0jFJ3aqlBGm_JVj9k&usqp=CAU" alt="bash" width="80" height="45"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSDKn3vA2YUbXzN0ZC3gALWJ08gJN-Drl15w&s" alt="bash" width="45" height="45"/>
     <img src="https://brandlogos.net/wp-content/uploads/2023/09/postman-logo_brandlogos.net_wfnwx-512x461.png" alt="bash" width="45" height="45"/>
+    <img src="https://avatars.githubusercontent.com/u/25365178?v=4" alt="bash" width="45" height="45"/>
+
 
   
 </div>
