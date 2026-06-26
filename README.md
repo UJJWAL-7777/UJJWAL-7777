@@ -2,8 +2,8 @@
   <H1>....Hii Everyone....</H1>
   <img src="https://i.pinimg.com/originals/19/76/ec/1976ec0323798268a977c29ed5e20ede.gif" />
 </div>
-# 💫 About Me:
-👋 Hi, I’m Ujjwal Narayan<br><br>👀 Interested in technology and software development<br><br>🌱 Currently learning Web Development and Data Structures & Algorithms (DSA)<br><br>💡 A fast and curious learner who enjoys exploring new tech<br><br>🛠️ Building projects to improve problem-solving and development skills<br><br>🚀 Aspiring to become a skilled full-stack developer
+# About Me:
+Hi, I’m Ujjwal Narayan<br><br>👀 Interested in technology and software development<br><br>🌱 Currently learning Web Development and Data Structures & Algorithms (DSA)<br><br>💡 A fast and curious learner who enjoys exploring new tech<br><br>🛠️ Building projects to improve problem-solving and development skills<br><br>🚀 Aspiring to become a skilled full-stack developer
 
 
 ## 🌐 Socials:
